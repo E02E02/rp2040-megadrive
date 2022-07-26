@@ -1,5 +1,5 @@
-# Pi_Drive
- 𝛱 - Pi Drive Programmer - A Mega Drive / Genesis cartridges programmer using Raspberry Pi Pico (RP2040).
+# (S)Cart_Programmer
+ rp2040 MegaDrive / Genesis Programmer - A Mega Drive / Genesis cartridges programmer using Raspberry Pi Pico (rp2040).
  
  <br>
  
