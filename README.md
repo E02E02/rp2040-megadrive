@@ -1,4 +1,4 @@
-# (S)Cart_Programmer
+# (S)Cart_Programmer_MegaDrive/Genesis
  rp2040 MegaDrive / Genesis programmer - A Mega Drive / Genesis cartridges programmer using Raspberry Pi Pico (rp2040).
  
  <br>
