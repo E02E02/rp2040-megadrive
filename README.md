@@ -9,7 +9,7 @@ Few comments :
 <li>Uses x1 - SN74HC165</li>
 <li>Numerous top level wires enable rewiring cartridge port. Mostly for testing purposes and further projects. Prototype card only</li>
 <li>Firmware ready (read/write rom-flash, read/write ram), GUI interface (PySide6) still to be coded</li>
-<li>Currently testing with Fe-RAM added, FlashkitMD card</li> 
+<li>Currently testing with Fe-RAM added, FlashKit MD card</li> 
 </ul>  
 </p> 
  
