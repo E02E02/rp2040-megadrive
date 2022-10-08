@@ -25,6 +25,4 @@ final prototype card, LCD including buttons added :
 </p>
 <br>
 
-Schematics, PCB and videos soon ...
-
 <br>
