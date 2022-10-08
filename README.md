@@ -1,13 +1,13 @@
-# RP-Pico - (S)Cart_Programmer
- Mega Drive / Genesis cartridges programmer using Raspberry Pi Pico (RP2040).
+# rp2040 - Mega Drive
+ Mega Drive / Genesis cartridges programmer and developer board using Raspberry Pi Pico (rp2040).
 <br>
  
 <p>
 Few comments :
 <ul type="square">
-<li>Uses x5 - SN74HC565</li>
-<li>Uses x1 - SN74HC165</li>
-<li>Numerous top level wires enable rewiring cartridge port. Mostly for testing purposes and further projects. Prototype card only</li>
+<li>Uses x5 - 74HC565</li>
+<li>Uses x1 - 74HC165</li>
+<li>Numerous top level wires enable rewiring cartridge port. . Prototype card only - mostly for testing purposes and further projects</li>
 <li>Firmware ready (read/write rom-flash, read/write ram), GUI interface (PySide6) still to be coded</li>
 <li>Currently testing with Fe-RAM added, FlashKit MD card</li> 
 </ul>  
