@@ -8,8 +8,12 @@ Few comments :
 <li>Uses x5 - 74HC595</li>
 <li>Uses x1 - 74HC165</li>
 <li>Numerous top level wires enable rewiring cartridge port. . Prototype card only - mostly for testing purposes and further projects</li>
-<li>Firmware ready (read/write rom-flash, read/write ram), GUI interface (PySide6) still to be coded</li>
-<li>Currently testing with Fe-RAM added, FlashKit MD card</li> 
+<li>Firmware ready (read/write rom-flash, read/write ram)</li>
+<li>Currently testing with Fe-RAM added, FlashKit MD card</li>
+</p> 
+<li>March/April-2023 - Starting a pcb version, Kviy GUI interface</li>
+<li>March/April-2023 - Solving firmware problems to have a fast and reliable flash (re)writing</li>
+<li>March/April-2023 - onboard Emulation ...</li>
 </ul>  
 </p> 
  
