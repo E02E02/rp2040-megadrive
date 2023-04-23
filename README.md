@@ -30,4 +30,11 @@ final prototype card, LCD including buttons added :
 </p>
 <br>
 
+Special cartridges ... work in progress
+
+<p align="center" width="100%">
+    <kbd><img width="100%" src="resources/3.jpg"></kbd>
+</p>
+<br>
+
 <br>
