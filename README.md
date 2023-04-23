@@ -11,8 +11,8 @@ Few comments :
 <li>Firmware ready (read/write rom-flash, read/write ram)</li>
 <li>Currently testing with Fe-RAM added, FlashKit MD card</li>
 </p> 
-<li>March/April-2023 - Starting a pcb version, Kviy GUI interface</li>
-<li>March/April-2023 - Solving firmware problems to have a fast and reliable flash (re)writing</li>
+<li>March/April-2023 - starting a pcb version, Kviy GUI interface</li>
+<li>March/April-2023 - solving firmware problems to have a fast and reliable flash (re)writing</li>
 <li>March/April-2023 - onboard emulation ? ...</li>
 <li>March/April-2023 - testing bankswitching, serial EEPROM memories ... not yet ready</li>
 </ul>  
