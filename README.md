@@ -5,7 +5,7 @@
 <p>
 Few comments :
 <ul type="square">
-<li>Uses x5 - 74HC565</li>
+<li>Uses x5 - 74HC595</li>
 <li>Uses x1 - 74HC165</li>
 <li>Numerous top level wires enable rewiring cartridge port. . Prototype card only - mostly for testing purposes and further projects</li>
 <li>Firmware ready (read/write rom-flash, read/write ram), GUI interface (PySide6) still to be coded</li>
